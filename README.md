@@ -1,4 +1,4 @@
 # stockDataDownloader
-Download open, high, low, volume and closing prices from Shanghai stock exchange and Shenzhen stock exchange.
+Batch download open, high, low, volume and closing price of stocks from Shanghai stock exchange and Shenzhen stock exchange.
 
-1. This project is for testing to download stock data from Tushare.
+This code is used to download stock data from Tushare.
